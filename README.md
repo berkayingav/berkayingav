@@ -1,5 +1,5 @@
 
-<p align="center"> <width="200" img src="https://scontent.fesb7-1.fna.fbcdn.net/v/t1.6435-9/47013640_2391410104419505_7099755354614923264_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=6D-Bcm-neZAAX8-CLk7&_nc_ht=scontent.fesb7-1.fna&oh=00_AfCY_EK5craVRgYxoJUaiKMF9UFQoIHLVkmdcM0OqS-Z9A&oe=65F1985E" alt="berkayingav" /> </p>
+<p align="center" width="200"> <img src="https://scontent.fesb7-1.fna.fbcdn.net/v/t1.6435-9/47013640_2391410104419505_7099755354614923264_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=6D-Bcm-neZAAX8-CLk7&_nc_ht=scontent.fesb7-1.fna&oh=00_AfCY_EK5craVRgYxoJUaiKMF9UFQoIHLVkmdcM0OqS-Z9A&oe=65F1985E" alt="berkayingav" /> </p>
 
 <h1 align="center">Hi, I'm Berkay</h1>
 <h3 align="center">An electrical and electronics engineer who wants to improve herself in the field of aviation and space</h3>
