@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Analog Çip Tasarımı](https://github.com/berkayingav/TEKNOFEST_2023_Cip_Tasarim_Yarismasi)
 
-- 🌱 I’m currently learning **VHDL , GNSS , DSP, Satellites.**
+- 🌱 I’m currently learning **VHDL , GNSS , Sensör Füzyonu, Uydular.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
