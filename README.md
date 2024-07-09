@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkayingav&label=Profile%20views&color=0e75b6&style=flat" alt="berkayingav" /> </p>
 
-- 🔭 I’m currently working on [Analog Çip Tasarımı](https://github.com/berkayingav/TEKNOFEST_2023_Cip_Tasarim_Yarismasi)
+- 🔭 I’m currently working on [Model Uydu]
 
 - 🌱 I’m currently learning **VHDL , GNSS , Sensör Füzyonu, Uydular.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/berkay-ingav-811a45239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/berkay-ingav-811a45239/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/berkay_ingav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/berkay_ingav/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@berkayingav7300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@berkayingav7300" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/berkay-ingav-811a45239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/berkay-ingav-811a45239/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/berkay_ingav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/berkay_ingav/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@berkayingav7300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@berkayingav7300" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
