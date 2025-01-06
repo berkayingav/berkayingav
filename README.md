@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Berkay</h1>
-<h3 align="center">An electrical and electronics engineer who wants to improve herself in the field of aviation and space</h3>
+<h3 align="center">An electrical and electronics engineer who wants to improve hirself in the field of aviation and space</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkayingav&label=Profile%20views&color=0e75b6&style=flat" alt="berkayingav" /> </p>
 
