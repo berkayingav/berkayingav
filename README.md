@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi, I'm Berkay</h1>
-<h3 align="center">An electrical and electronics engineer who wants to improve himself in the field of aviation and space</h3>
+<h3 align="center">An electrical and electronics engineer who wants to improve himself in the Navigation and Embedded Software.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkayingav&label=Profile%20views&color=0e75b6&style=flat" alt="berkayingav" /> </p>
 
-- 🔭 I’m currently working on [Model Uydu]
+- 🔭 I’m currently working on [Loosely/Tightly Coupled INS/GNSS Integration]
 
-- 🌱 I’m currently learning **VHDL , GNSS , Sensör Füzyonu, Uydular.**
+- 🌱 I’m currently learning **C++ , INS/GNSS.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
